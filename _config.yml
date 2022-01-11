@@ -20,15 +20,15 @@ url:                   https://taek0622.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 깅이 블로그
+title:                 태깅 블로그
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  개발자 꿈나무 깅이 GitBlog
+  개발자 꿈나무 태깅 GitBlog
 
 # A shorter description for the sidebar.
-tagline:               Team AI.D's member Taek
+tagline:               개발자 꿈나무 태깅
 
 # A list of keywords for your blog
 keywords:              [dev, git, gitblog, computer engineering, AI.D]
@@ -54,6 +54,13 @@ menu:
     url:               /example1/
   - title:             Example2
     url:               /example2/
+  - title:             Subcat
+    url:               /subcat/
+    submenu:
+      - title:         Test1
+        url:           /test1/
+      - title:         Test2
+        url:           /test2/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -79,7 +86,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
