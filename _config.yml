@@ -61,6 +61,13 @@ menu:
         url:           /test1/
       - title:         Test2
         url:           /test2/
+  - title:             Study
+    url:               /study/
+    submenu:
+      - title:         BoostCamp AI Tech
+        url:           /aitech/
+      - title:         React
+        url:           /react/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
