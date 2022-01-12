@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 리액트 개발 환경 설치하기
+image: /assets/img/posts/react-logo.png
 description: >
   windows pc에서 리액트 개발 환경을 설치하는 방법
 sitemap: false
@@ -15,7 +16,7 @@ categories:
 - Table of Contents
 {:toc .large-only}
 
-## nvm(node version manager)로 node.js 설치
+## NVM(node version manager)으로 node.js 설치
 
 ### NVM 설치
 
