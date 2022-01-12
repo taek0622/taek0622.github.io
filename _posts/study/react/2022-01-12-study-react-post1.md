@@ -3,7 +3,7 @@ layout: post
 title: 리액트 개발 환경 설치하기
 image: /assets/img/posts/react-logo.png
 description: >
-  windows pc에서 리액트 개발 환경을 설치하는 방법
+  Windows 운영체제에서 리액트 개발 환경을 설치하는 방법
 sitemap: false
 hide_last_modified: true
 categories:
