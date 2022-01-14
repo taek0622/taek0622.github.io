@@ -64,7 +64,7 @@ Usage:
 
 ### NVM으로 node.js 설치
 
-nvm install 버전 명령어를 사용하여 node.js 설치를 설치한다. nvm install 뒤의 버전에는 자신이 사용할 버전을 기입한다. 작성일(2022년 1월 14일) 기준 현재 최신 LTS 버전이 16.13.2 버전이므로 16.13.2를 기입했다.
+nvm install 버전 명령어를 사용하여 node.js 설치를 설치한다. nvm install 뒤의 버전에는 자신이 사용할 버전을 기입한다. 작성일(2022년 1월 12일) 기준 현재 최신 LTS 버전이 16.13.2 버전이므로 16.13.2를 기입했다.
 
 ```powershell
 > nvm install 16.13.2

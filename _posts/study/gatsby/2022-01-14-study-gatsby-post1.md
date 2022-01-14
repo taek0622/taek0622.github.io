@@ -22,6 +22,8 @@ gatsby를 설치하기 전에 node.js를 설치해야 한다.
 
 node.js는 [Node.js 공식 웹사이트](https://nodejs.org/) 혹은 npm을 이용하여 설치할 수 있다.
 
+또는 NVM을 사용하여 설치할 수도 있는데, 해당 내용은 본 블로그의 [리액트 개발 환경 설치하기](/study/react/2022-01-12-study-react-post1/#nvmnode-version-manager%EC%9C%BC%EB%A1%9C-nodejs-%EC%84%A4%EC%B9%98) 포스트에서 확인할 수 있다.
+
 ## Git 설치
 
 Git을 사용하면 새 사이트에 필요한 파일을 다운로드하거나 코드를 클라우드에 푸시하여 다른 사람들이 볼 수 있도록 인터넷 사이트를 배포할 수 있다.
