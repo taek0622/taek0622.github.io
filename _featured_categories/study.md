@@ -14,6 +14,8 @@ description: >
 
 * [aitech]{:.heading.flip-title} --- 부스트캠프 AI Tech 3기
 * [react]{:.heading.flip-title} --- 리액트
+* [gatsby]{:.heading.flip-title} --- Gatsby
 
 [aitech]: /aitech/
 [react]: /react/
+[gatsby]: /gatsby/
