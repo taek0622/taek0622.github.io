@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Subcat-Test1-post1
+title: AI Tech-P Stage-test2
 image: /assets/img/blog/jj-ying.jpg
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -8,14 +8,14 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  Version 9.1 provides minor design changes, new features, and closes multiple issues.
+  테스트포스트2
 invert_sidebar: true
 categories:
-  - subcat
-  - test1
+  - aitech
+  - pstage
 ---
 
-# Subcat-Test1-post1
+# AI Tech-P Stage-test2
 
 What's New in Hydejack 9.1?
 

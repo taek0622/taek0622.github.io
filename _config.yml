@@ -50,26 +50,24 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Example1
-    url:               /example1/
-  - title:             Example2
-    url:               /example2/
-  - title:             Subcat
-    url:               /subcat/
+  - title:             AI Tech
+    url:               /aitech/
     submenu:
-      - title:         Test1
-        url:           /test1/
-      - title:         Test2
-        url:           /test2/
+      - title:         U Stage
+        url:           /ustage/
+      - title:         P Stage
+        url:           /pstage/
   - title:             Study
     url:               /study/
     submenu:
-      - title:         BoostCamp AI Tech
-        url:           /aitech/
       - title:         React
         url:           /react/
       - title:         Gatsby
         url:           /gatsby/
+  - title:             Example1
+    url:               /example1/
+  - title:             Example2
+    url:               /example2/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
