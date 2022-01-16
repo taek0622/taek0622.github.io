@@ -12,8 +12,11 @@ description: >
 
 ## 카테고리
 
-* [ustage]{:.heading.flip-title} --- U Stage
-* [pstage]{:.heading.flip-title} --- P Stage
+* [U Stage](/ustage/){:.heading.flip-title}
+
+<span style="color:white; background-color:green; border-radius: 5px; font-size:14px; font-weight:bold">[Day 1](/aitech/ustage/2022-01-17-aitech-ustage-day1/)</span>
+
+* [P Stage](/pstage/){:.heading.flip-title}
 
 [ustage]: /ustage/
 [pstage]: /pstage/

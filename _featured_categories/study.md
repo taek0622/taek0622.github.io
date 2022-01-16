@@ -12,8 +12,8 @@ description: >
 
 ## 카테고리
 
-* [react]{:.heading.flip-title} --- 리액트
-* [gatsby]{:.heading.flip-title} --- Gatsby
+* [React](/react/){:.heading.flip-title}
+* [Gatsby](/gatsby/){:.heading.flip-title}
 
 [react]: /react/
 [gatsby]: /gatsby/
